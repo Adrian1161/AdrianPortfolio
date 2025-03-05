@@ -14,4 +14,5 @@
 - [Github Repository](https://github.com/Adrian1161/IT-145)
 
 # Education
-- Southern New Hampshire University
+- Associates: Mclennan Community College
+- Bachelors: Southern New Hampshire University
