@@ -9,12 +9,16 @@
 
 
 ## Software design and engineering 
-
+  Text based game artifact one updated code.
+  -[Github Repository](https://github.com/Adrian1161/CS-499-Software-Design)
 
 ## Algorithms and data structures 
-
+   Text based game artifact two updated code.
+  -[Github Repository](https://github.com/Adrian1161/CS-499-Algorithms-Data-Structures)
+   
 ## Databases 
-
+  Text based game artifact three updated code.
+  -[Github Repository](https://github.com/Adrian1161/CS-499-Databases)
   
 # Education
 - Associates: McLennan Community College
