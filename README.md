@@ -1,5 +1,8 @@
 # Adrian1161portfolio
 
+## Self-assessment
+I first started to learn computer science around 2022 and since then I have learned a lot about the field of computer science. I have learned how to work in multiple languages. Those being Python, JavaScript, and C++. I have also learned to work in databases management systems. The ones I am most familiar with are MySQL and MongoDB. As I have worked on more projects for school some of those projects have required that I look at stakeholder feedback and use it to create software that meets their needs. This required me to be able to properly take in feedback and understand it so that I could best meet their needs. Along with this I have become very familiar with how to have proper data structures. Databases are another thing I have worked on. I had to create a project that involved implementing a database into a program that allows users to CREATE, READ, UPDATE, and DELETE. To add more to this, I have a project that had me build a RESTful API using Node.js and Express. This project was also connected to a database that was used for storing user profiles and booking history. This application was built using JWT for user authentication in order to add some security.
+
 ## Projects
 
   Text Based Game
