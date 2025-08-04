@@ -33,7 +33,7 @@ I first started to learn computer science around 2022 and since then I have lear
     
   Fullstack with MEAN
   - This project is had me create a fullstack application that was used for a travel agency. The project required me to set up a way for users to create an account in order to book trips.
-  - [CS-465](https://github.com/Adrian1161/cs465-fullstack)
+  - [CS-465](https://github.com/Adrian1161/cs465-fullstack) Switch to branch module7.
 
   Weight tracker app
   - This is an android app that tracks users weight and informs them once they reached their goal weight.
