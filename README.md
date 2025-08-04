@@ -26,7 +26,8 @@ I first started to learn computer science around 2022 and since then I have lear
   Text based game artifact three updated code. Link will send you to orginal code along with narrative.
   -[Databases Repository](https://github.com/Adrian1161/CS-499-Databases)
 
- ## Other Projects
+## Other Projects
+ 
   Intelligent-Agent 
   - This project had me create an agent that would be thrown in a enviroment that it would have to learn how to navigate. I did this by setting up a Q-Learning algorithm so the agent could decide what the best choice at the time would be.
   - [CS-370-intelligent-agent](https://github.com/Adrian1161/CS-370-intelligent-agent)
