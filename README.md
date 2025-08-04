@@ -29,8 +29,15 @@ I first started to learn computer science around 2022 and since then I have lear
  ## Other Projects
   Intelligent-Agent 
   - This project had me create an agent that would be thrown in a enviroment that it would have to learn how to navigate. I did this by setting up a Q-Learning algorithm so the agent could decide what the best choice at the time would be.
+  - [CS-370-intelligent-agent](https://github.com/Adrian1161/CS-370-intelligent-agent)
+    
+  Fullstack with MEAN
+  - This project is had me create a fullstack application that was used for a travel agency. The project required me to set up a way for users to create an account in order to book trips.
+  - [CS-465](https://github.com/Adrian1161/cs465-fullstack)
 
-
+  Weight tracker app
+  - This is an android app that tracks users weight and informs them once they reached their goal weight.
+  - [CS-360](https://github.com/Adrian1161/CS-360)
  
 # Education
 - Associates: McLennan Community College
