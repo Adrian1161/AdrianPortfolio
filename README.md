@@ -42,3 +42,4 @@ I first started to learn computer science around 2022 and since then I have lear
 # Education
 - Associates: McLennan Community College
 - Bachelors: Southern New Hampshire University
+- Master: Texas A&M University (Online)(Current)
